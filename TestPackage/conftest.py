@@ -1,5 +1,6 @@
 import pytest
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 import time
 
 driver = None
@@ -27,9 +28,15 @@ def setup(request):
     global driver
     browser_name = request.config.getoption("browser_name")
     if browser_name == "chrome":
-        driver = webdriver.Chrome(executable_path="C:\\chromedriver.exe")
+        S = Service("D:\\chromedriver.exe")
+        driver = webdriver.Chrome(service=S)
+
+        #driver = webdriver.Chrome(executable_path="C:\\chromedriver.exe")
     elif browser_name == "firefox":
-        driver = webdriver.Firefox(executable_path="C:\\geckodriver.exe")
+        S = Service("D:\\chromedriver.exe")
+        driver = webdriver.Chrome(service=S)
+
+        #driver = webdriver.Firefox(executable_path="C:\\geckodriver.exe")
     elif browser_name == "IE":
         print("IE driver")
     driver.get("https://rahulshettyacademy.com/angularpractice/")
@@ -55,7 +62,8 @@ def setup(request):
 # return driver
 
 
-@pytest.mark.hookwrapper
+#@pytest.mark.hookwrapper
+@pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item):
     """
         Extends the PyTest Plugin to take and embed screenshot in html report, whenever test fails.
