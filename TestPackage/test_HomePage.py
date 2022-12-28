@@ -53,6 +53,7 @@ from utilities.BaseClass import BaseClass
 class TestHomePage(BaseClass):
 
     def test_formSubmission(self,getData):
+
         log = self.getLogger()
         homepage= HomePage(self.driver)
         log.info("first name is "+getData["firstname"])
