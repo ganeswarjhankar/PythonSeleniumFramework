@@ -1,0 +1,7 @@
+2023-02-01 17:21:59,966 :INFO : test_formSubmission :first name is rahul
+2023-02-01 17:22:09,352 :INFO : test_e2e :getting all the card titles
+2023-02-01 17:22:09,415 :INFO : test_e2e :iphone X
+2023-02-01 17:22:09,452 :INFO : test_e2e :Samsung Note 8
+2023-02-01 17:22:09,484 :INFO : test_e2e :Nokia Edge
+2023-02-01 17:22:09,528 :INFO : test_e2e :Blackberry
+2023-02-01 17:22:09,993 :INFO : test_e2e :Entering country name as ind
