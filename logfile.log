@@ -34,3 +34,39 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2022-12-28 17:34:35,914 :INFO : test_e2e :Entering country name as ind
 2022-12-28 17:34:41,360 :INFO : test_e2e :Text received from application is ×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-15 23:07:54,792 :INFO : test_formSubmission :first name is rahul
+2023-01-15 23:08:01,194 :INFO : test_e2e :getting all the card titles
+2023-01-15 23:08:01,228 :INFO : test_e2e :iphone X
+2023-01-15 23:08:01,241 :INFO : test_e2e :Samsung Note 8
+2023-01-15 23:08:01,254 :INFO : test_e2e :Nokia Edge
+2023-01-15 23:08:01,267 :INFO : test_e2e :Blackberry
+2023-01-15 23:08:01,472 :INFO : test_e2e :Entering country name as ind
+2023-01-15 23:08:06,875 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-16 19:14:38,871 :INFO : test_formSubmission :first name is rahul
+2023-01-16 19:14:42,934 :INFO : test_e2e :getting all the card titles
+2023-01-16 19:14:43,025 :INFO : test_e2e :iphone X
+2023-01-16 19:14:43,066 :INFO : test_e2e :Samsung Note 8
+2023-01-16 19:14:43,085 :INFO : test_e2e :Nokia Edge
+2023-01-16 19:14:43,102 :INFO : test_e2e :Blackberry
+2023-01-16 19:14:43,289 :INFO : test_e2e :Entering country name as ind
+2023-01-16 19:14:48,807 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-17 18:22:16,224 :INFO : test_formSubmission :first name is rahul
+2023-01-17 18:22:20,040 :INFO : test_e2e :getting all the card titles
+2023-01-17 18:22:20,099 :INFO : test_e2e :iphone X
+2023-01-17 18:22:20,119 :INFO : test_e2e :Samsung Note 8
+2023-01-17 18:22:20,141 :INFO : test_e2e :Nokia Edge
+2023-01-17 18:22:20,164 :INFO : test_e2e :Blackberry
+2023-01-17 18:22:20,478 :INFO : test_e2e :Entering country name as ind
+2023-01-17 18:22:26,076 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 18:19:23,035 :INFO : test_formSubmission :first name is rahul
+2023-01-19 18:19:28,586 :INFO : test_e2e :getting all the card titles
+2023-01-19 18:19:28,633 :INFO : test_e2e :iphone X
+2023-01-19 18:19:28,653 :INFO : test_e2e :Samsung Note 8
+2023-01-19 18:19:28,670 :INFO : test_e2e :Nokia Edge
+2023-01-19 18:19:28,706 :INFO : test_e2e :Blackberry
+2023-01-19 18:19:29,030 :INFO : test_e2e :Entering country name as ind
+2023-01-19 18:19:34,644 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
